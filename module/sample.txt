@@ -1,0 +1,1 @@
+This is txt file used for nodejs fs module demo.
